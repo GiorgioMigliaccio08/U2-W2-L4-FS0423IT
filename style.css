@@ -1,0 +1,43 @@
+.Intestazione {
+  height: 500px;
+  width: 100%;
+  background-color: #7550fe;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+h1 {
+  color: white;
+  padding-top: 100px;
+  padding-left: 180px;
+}
+
+p {
+  color: #bdaaff;
+  font-size: 1.5em;
+  padding-left: 180px;
+  padding-top: 20px;
+}
+
+.btnuno {
+  color: white;
+  background-color: #1acb98;
+  font-weight: bold;
+  padding: 20px 40px;
+  border-radius: 10px;
+  margin-left: 180px;
+  border: 1px solid transparent;
+}
+.btndue {
+  color: black;
+  background-color: white;
+  font-weight: bold;
+  padding: 20px 30px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+}
+
+.destra {
+  padding-top: 30px;
+  padding-right: 280px;
+}
